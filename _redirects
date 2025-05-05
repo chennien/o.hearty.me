@@ -1,0 +1,12 @@
+# Compatible with deprecated Firebase Dynamic Links
+https://hearty.app/* https://o.hearty.me/:splat 301!
+https://www.hearty.app/* https://o.hearty.me/:splat 301!
+https://app.hearty.me/* https://o.hearty.me/:splat 301!
+https://app.hj.rs/* https://hearty.me 301!
+
+/ios https://d.hearty.app/ios 302
+/android https://d.hearty.app/android 302
+/win https://d.hearty.app/win 302
+/mac https://d.hearty.app/mac 302
+
+/* /index 200

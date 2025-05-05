@@ -1,0 +1,10 @@
+[{
+	"relation": ["delegate_permission/common.handle_all_urls"],
+	"target": {
+		"namespace": "android_app",
+		"package_name": "com.hearty.me",
+		"sha256_cert_fingerprints": [
+			"45:EF:36:B0:21:0A:13:3D:51:AD:BD:E2:E3:8E:E0:F1:BC:FD:27:5A:B8:D0:BB:85:CA:B2:A3:90:31:57:4F:E6"
+		]
+	}
+}]
