@@ -1,5 +1,6 @@
 /*
  Access-Control-Allow-Origin: *
+ Cache-Control: max-age=2592000
  Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
  X-Content-Type-Options: nosniff
  X-Robots-Tag: none
